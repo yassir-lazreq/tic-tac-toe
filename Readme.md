@@ -23,8 +23,8 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 - `script.js`: The JavaScript file containing the game logic.
 
 ## demo
-[You can view a live demo of the game here]().
+[You can view a live demo of the game here](https://yassir-lazreq.github.io/tic-tac-toe/).
 
 ## credit.
 
-This game was developed by [Yassir lazreq]().
+This game was developed by [Yassir lazreq](https://github.com/yassir-lazreq).
